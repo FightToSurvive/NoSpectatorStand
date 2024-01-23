@@ -10,6 +10,9 @@
   "icon": "assets/nospectatorstand/icon.png",
   "environment": "*",
   "entrypoints": {
+    "client": [
+      "me.twostinkysocks.nospectatorstand.client.NoSpectatorStandClient"
+    ]
   },
   "mixins": [
     "nospectatorstand.mixins.json"
