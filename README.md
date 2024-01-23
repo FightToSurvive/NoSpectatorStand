@@ -2,4 +2,4 @@
 
 Removes annoying invisible armor stands in spectator mode caused by the TAB spigot plugin.
 
-Download: https://github.com/2stinkysocks/NoSpectatorStand/releases/tag/1.0
+Download: https://github.com/2stinkysocks/NoSpectatorStand/releases
