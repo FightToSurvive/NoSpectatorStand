@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "nospectatorstand",
+  "version": "${version}",
+  "name": "NoSpectatorStand",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/nospectatorstand/icon.png",
+  "environment": "*",
+  "entrypoints": {
+  },
+  "mixins": [
+    "nospectatorstand.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.4",
+    "fabric": "*",
+    "minecraft": ">=1.20.2"
+  }
+}
